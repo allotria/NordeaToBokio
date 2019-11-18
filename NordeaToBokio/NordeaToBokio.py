@@ -1,4 +1,3 @@
-# Bokföringsdatum	Bokfört belopp (SEK)	Till/från konto	Till/från namn	Referens/meddelande	Utgående saldo	Utländskt belopp	Valutakod	Landkod	Betalkod	Egna anteckningar
 def process(file):
 	fields = file.split('\t')
 	fields = [ x.strip() for x in fields ]
