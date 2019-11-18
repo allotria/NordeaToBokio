@@ -1,0 +1,3 @@
+- Öppna filen från Nordea med t ex TextWrangler med encoding "Western (Windows latin 1)"
+- Spara filen som UTF-8 med Unix line ending
+- Kör filen genom NordeaToBokia.py
